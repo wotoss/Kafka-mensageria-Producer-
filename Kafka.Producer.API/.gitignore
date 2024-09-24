@@ -1,0 +1,30 @@
+# Ignorar pastas de build e cache
+bin/
+obj/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar configurações do Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Ignorar arquivos gerados de build
+*.exe
+*.dll
+*.pdb
+
+# Ignorar pacotes e cache do NuGet
+packages/
+.nuget/
+*.nupkg
+
+# Ignorar dados temporários
+*.tmp
+*.temp
+
+# Ignorar arquivos de configuração e cache locais
+*.csproj.user
+
+# Ignorar pastas específicas
+Kafka.Consumer.Console/
