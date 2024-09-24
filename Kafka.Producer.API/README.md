@@ -38,7 +38,7 @@ Para deixar a aplicação rodando em background
 
 Instale as seguintes extensões no VSCode para facilitar o desenvolvimento com .NET:
 
-.NET Extension: Extensão para adicionar suporte completo ao .NET no VSCode.
+.NET Extension: Extensão para adicionar suporte completo ao .NET no VSCode
 
 
 
